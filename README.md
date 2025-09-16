@@ -5,3 +5,4 @@ About Me:
 - Studying Computer Science and Data Science at Rutgers University, New Brunswick
 
 ## Tech Stack
+<img src="{[BadgeURLHere](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)}" />
